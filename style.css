@@ -1,0 +1,8 @@
+body {
+	background-image: url('redbluegradient.png');
+  	cursor: url('cursor.png'), auto;	
+}
+
+#title{
+  	color: white;
+}
